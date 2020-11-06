@@ -1,0 +1,9 @@
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEntitiesLib/bin/Debug/netstandard2.0/NorthwindEntitiesLib.deps.json
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEntitiesLib/bin/Debug/netstandard2.0/NorthwindEntitiesLib.dll
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEntitiesLib/bin/Debug/netstandard2.0/NorthwindEntitiesLib.pdb
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.0/NorthwindEntitiesLib.csprojAssemblyReference.cache
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.0/NorthwindEntitiesLib.AssemblyInfoInputs.cache
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.0/NorthwindEntitiesLib.AssemblyInfo.cs
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.0/NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.0/NorthwindEntitiesLib.dll
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.0/NorthwindEntitiesLib.pdb
