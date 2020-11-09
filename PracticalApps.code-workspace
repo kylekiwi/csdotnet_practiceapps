@@ -11,6 +11,12 @@
     },
     {
       "path": "NorthwindEmployees"
+    },
+    {
+      "path": "NorthwindMvc"
+    },
+    {
+      "path": "DiPractice"
     }
   ],
 	"settings": {}

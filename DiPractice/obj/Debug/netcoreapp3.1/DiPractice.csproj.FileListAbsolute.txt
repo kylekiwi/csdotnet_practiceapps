@@ -1,0 +1,12 @@
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/DiPractice/bin/Debug/netcoreapp3.1/DiPractice.deps.json
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/DiPractice/bin/Debug/netcoreapp3.1/DiPractice.runtimeconfig.json
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/DiPractice/bin/Debug/netcoreapp3.1/DiPractice.runtimeconfig.dev.json
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/DiPractice/bin/Debug/netcoreapp3.1/DiPractice.dll
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/DiPractice/bin/Debug/netcoreapp3.1/DiPractice.pdb
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/DiPractice/obj/Debug/netcoreapp3.1/DiPractice.csprojAssemblyReference.cache
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/DiPractice/obj/Debug/netcoreapp3.1/DiPractice.AssemblyInfoInputs.cache
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/DiPractice/obj/Debug/netcoreapp3.1/DiPractice.AssemblyInfo.cs
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/DiPractice/obj/Debug/netcoreapp3.1/DiPractice.csproj.CoreCompileInputs.cache
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/DiPractice/obj/Debug/netcoreapp3.1/DiPractice.dll
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/DiPractice/obj/Debug/netcoreapp3.1/DiPractice.pdb
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/DiPractice/obj/Debug/netcoreapp3.1/DiPractice.genruntimeconfig.cache
