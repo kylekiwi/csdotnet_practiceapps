@@ -91,3 +91,7 @@
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/obj/Debug/netcoreapp3.1/NorthwindMvc.dll
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/obj/Debug/netcoreapp3.1/NorthwindMvc.pdb
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/obj/Debug/netcoreapp3.1/NorthwindMvc.genruntimeconfig.cache
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/bin/Debug/netcoreapp3.1/NorthwindContextLib.dll
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/bin/Debug/netcoreapp3.1/NorthwindEntitiesLib.dll
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/bin/Debug/netcoreapp3.1/NorthwindContextLib.pdb
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/bin/Debug/netcoreapp3.1/NorthwindEntitiesLib.pdb

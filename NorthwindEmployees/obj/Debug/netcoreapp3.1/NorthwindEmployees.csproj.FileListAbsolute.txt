@@ -27,3 +27,4 @@
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEmployees/obj/Debug/netcoreapp3.1/Razor/Areas/PacktFeatures/Pages/employees.cshtml.g.cs
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEmployees/obj/Debug/netcoreapp3.1/Razor/Areas/PacktFeatures/Pages/Shared/_Employee.cshtml.g.cs
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEmployees/obj/Debug/netcoreapp3.1/Razor/Areas/PacktFeatures/Pages/_ViewStart.cshtml.g.cs
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEmployees/obj/Debug/netcoreapp3.1/scopedcss/bundle/NorthwindEmployees.styles.css

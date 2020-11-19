@@ -4,6 +4,119 @@
     "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/NorthwindMvc.csproj": {}
   },
   "projects": {
+    "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj",
+        "projectName": "NorthwindContextLib",
+        "projectPath": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj",
+        "packagesPath": "/Users/jongwonkim/.nuget/packages/",
+        "outputPath": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindContextLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jongwonkim/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj": {
+                "projectPath": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj",
+        "projectName": "NorthwindEntitiesLib",
+        "projectPath": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj",
+        "packagesPath": "/Users/jongwonkim/.nuget/packages/",
+        "outputPath": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEntitiesLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jongwonkim/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/NorthwindMvc.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -24,7 +137,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj": {
+                "projectPath": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

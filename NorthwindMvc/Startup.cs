@@ -12,6 +12,8 @@ using NorthwindMvc.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using System.IO;
+using Packt.Shared;
 
 namespace NorthwindMvc
 {
@@ -27,6 +29,10 @@ namespace NorthwindMvc
     // This method gets called by the runtime. Use this method to add services to the container.
     public void ConfigureServices(IServiceCollection services)
     {
+      string databasePath = Path.Combine("..", "Northwind.db");
+      services.AddDbContext<Northwind> (options=>
+        options.UseSqlite($"Data Source={databasePath}"));
+
       services.AddDbContext<ApplicationDbContext>(options =>
 				options.UseSqlite(
 					Configuration.GetConnectionString("DefaultConnection")));

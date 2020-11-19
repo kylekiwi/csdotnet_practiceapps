@@ -1239,6 +1239,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "projectReferences": {
             "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj": {
               "projectPath": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj"
@@ -1254,6 +1255,7 @@
     },
     "frameworks": {
       "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SQLite": {
             "target": "Package",
@@ -1275,7 +1277,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
