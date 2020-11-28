@@ -14422,6 +14422,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/Views/Home/ProductsThatCostMoreThan.cshtml",
+      "TargetPath": "Views\\Home\\ProductsThatCostMoreThan.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
