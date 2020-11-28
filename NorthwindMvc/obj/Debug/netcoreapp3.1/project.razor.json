@@ -14417,6 +14417,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/Views/Home/ModelBinding.cshtml",
+      "TargetPath": "Views\\Home\\ModelBinding.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -14434,11 +14439,6 @@
     {
       "FilePath": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/Views/Home/Index_wrong.cshtml",
-      "TargetPath": "Views\\Home\\Index_wrong.cshtml",
       "FileKind": "mvc"
     },
     {

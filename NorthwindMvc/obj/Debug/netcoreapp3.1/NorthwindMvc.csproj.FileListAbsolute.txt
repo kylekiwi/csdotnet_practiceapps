@@ -95,5 +95,5 @@
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/bin/Debug/netcoreapp3.1/NorthwindContextLib.pdb
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/bin/Debug/netcoreapp3.1/NorthwindEntitiesLib.pdb
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/obj/Debug/netcoreapp3.1/scopedcss/bundle/NorthwindMvc.styles.css
-/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index_wrong.cshtml.g.cs
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/obj/Debug/netcoreapp3.1/Razor/Views/Home/ProductDetail.cshtml.g.cs
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/obj/Debug/netcoreapp3.1/Razor/Views/Home/ModelBinding.cshtml.g.cs

@@ -45,6 +45,23 @@ namespace NorthwindMvc.Controllers
             }
             return View(model);
         }
+        public IActionResult ModelBinding() { 
+            return View(); // the page with a form to submit 
+        }
+
+        [HttpPost]
+        public IActionResult ModelBinding(Thing thing) { 
+            // return View(thing); // show the model bound thing 
+            var model = new HomeModelBindingViewModel
+            {
+                Thing = thing,
+                HasErrors = !ModelState.IsValid,
+                ValidationErrors = ModelState.Values
+                    .SelectMany(state=>state.Errors)
+                    .Select(err=>err.ErrorMessage)
+            };
+            return View(model);
+        }
 
         // [Route("private")]
         public IActionResult Privacy()
