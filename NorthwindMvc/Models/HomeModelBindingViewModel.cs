@@ -8,8 +8,5 @@ namespace NorthwindMvc.Models
         public bool HasErrors { get; set; }
         public IEnumerable<string> ValidationErrors {get; set;}
         
-        
-        
-        
     }
 }
