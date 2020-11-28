@@ -31,6 +31,20 @@ namespace NorthwindMvc.Controllers
             };
             return View(model);
         }
+        public IActionResult ProductDetail(int? id)
+        {
+            if(!id.HasValue)
+            {
+                return NotFound("You must pass a product ID in the route, for example, /Home/ProductDetail/21");
+            }
+            //Northwind.Producst : DBSet<Product>
+            var model = db.Products.SingleOrDefault(p=>p.ProductID==id);
+            if(model == null)
+            {
+                return NotFound($"Product with ID of {id} not found.");
+            }
+            return View(model);
+        }
 
         // [Route("private")]
         public IActionResult Privacy()
