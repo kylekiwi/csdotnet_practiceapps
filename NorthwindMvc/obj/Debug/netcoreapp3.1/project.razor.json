@@ -14432,6 +14432,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/Views/Home/Index_wrong.cshtml",
+      "TargetPath": "Views\\Home\\Index_wrong.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "L7WfvzUKSMktH0IcaRTRyy3eg7BBN8xTz1pb2c6J0XEO1C9qDy9vpPgeZzd8uC+wa/RSVQafg/U8ekIQaJAEZw==",
+  "dgSpecHash": "OY5OdTj6Wzqn78tbAbXGhRv175JUKnMDQlR50bpivLY2HOBnjFH/Hlj9DiOGMMgfZRfbmyx33QqD5r+1WQFVGg==",
   "success": true,
   "projectFilePath": "/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/NorthwindMvc.csproj",
   "expectedPackageFiles": [

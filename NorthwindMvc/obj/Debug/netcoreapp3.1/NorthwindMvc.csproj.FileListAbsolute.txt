@@ -1,6 +1,5 @@
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/bin/Debug/netcoreapp3.1/appsettings.json
-/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/bin/Debug/netcoreapp3.1/NorthwindMvc.StaticWebAssets.xml
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/bin/Debug/netcoreapp3.1/app.db
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/bin/Debug/netcoreapp3.1/NorthwindMvc.deps.json
@@ -95,3 +94,5 @@
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/bin/Debug/netcoreapp3.1/NorthwindEntitiesLib.dll
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/bin/Debug/netcoreapp3.1/NorthwindContextLib.pdb
 /Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/bin/Debug/netcoreapp3.1/NorthwindEntitiesLib.pdb
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/obj/Debug/netcoreapp3.1/scopedcss/bundle/NorthwindMvc.styles.css
+/Users/jongwonkim/dev/book_dotnetcore/PracticalApps/NorthwindMvc/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index_wrong.cshtml.g.cs
